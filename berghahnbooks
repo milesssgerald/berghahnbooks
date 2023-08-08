@@ -1,0 +1,635 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+<head profile="http://gmpg.org/xfn/11">
+	<title>Berghahn Books - AUTHOR ARTICLE: Witches and Demons</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" media="screen,projection" href="https://berghahnbooks.com/blog/wp-content/themes/bbblog/style.css" title="blog.txt" />
+	<link rel="stylesheet" type="text/css" media="print" href="https://berghahnbooks.com/blog/wp-content/themes/bbblog/print.css" />
+	<link rel="alternate" type="application/rss+xml" href="https://berghahnbooks.com/blog/feed" title="Berghahn Books RSS feed" />
+	<link rel="alternate" type="application/rss+xml" href="https://berghahnbooks.com/blog/comments/feed" title="Berghahn Books comments RSS feed" />
+	<link rel="pingback" href="https://berghahnbooks.com/blog/xmlrpc.php" />
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/berghahnbooks.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.5"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://berghahnbooks.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=6.0.5' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://berghahnbooks.com/blog/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=6.0.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=6.0.5#pubid=wp-7b9a0dd3c1123b93a4b2ced707d0e15c' id='addthis_widget-js'></script>
+<link rel="https://api.w.org/" href="https://berghahnbooks.com/blog/wp-json/" /><link rel="alternate" type="application/json" href="https://berghahnbooks.com/blog/wp-json/wp/v2/posts/18938" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://berghahnbooks.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://berghahnbooks.com/blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.5" />
+<link rel="canonical" href="https://berghahnbooks.com/blog/author-article-witches-and-demons" />
+<link rel='shortlink' href='https://berghahnbooks.com/blog/?p=18938' />
+<link rel="alternate" type="application/json+oembed" href="https://berghahnbooks.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fberghahnbooks.com%2Fblog%2Fauthor-article-witches-and-demons" />
+<link rel="alternate" type="text/xml+oembed" href="https://berghahnbooks.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fberghahnbooks.com%2Fblog%2Fauthor-article-witches-and-demons&#038;format=xml" />
+	<link rel="stylesheet" type="text/css" media="screen,projection" href="https://berghahnbooks.com/blog/wp-content/themes/bbblog/layouts/2c-l.css" />
+
+<style type="text/css" media="screen,projection">
+/*<![CDATA[*/
+/* CSS inserted by blog.txt theme options */
+	body{font-size:80%;}
+	body,div.comments h3.comment-header span.comment-count,div.entry-content ul.xoxo li.hentry span.entry-title{font-family:arial,helvetica,sans-serif;}
+	div#wrapper{width:90%;}
+	div.hfeed .entry-title,div.hfeed .page-title,div.comments h3,div.entry-content h2,div.entry-content h3,div.entry-content h4,div.entry-content h5,div.entry-content h6,div#header div#blog-description,div#header div.archive-description{font-family:'trebuchet ms',helvetica,sans-serif;}
+	div#header h1#blog-title,div.sidebar ul li h3{font-family:'trebuchet ms',helvetica,sans-serif;}
+	body input#s,div.entry-content div.page-link,div.entry-content p.attachment-name,div.entry-content q,div.comments ol.commentlist q,div.formcontainer div.form-input input,div.formcontainer div.form-textarea textarea,div.hentry div.entry-meta,div.sidebar{font-family:arial,helvetica,sans-serif;}
+	div.hfeed div.hentry{text-align:left;}
+	body div#wrapper{margin:5em 0 0 7em;}
+/*]]>*/
+</style>
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.1.5"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "6.0.5"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = [{"responsiveshare":{"numPreferredServices":3,"counts":"one","size":"20px","style":"responsive","shareCountThreshold":0,"services":"facebook,twitter,email,addthis","elements":".addthis_inline_share_toolbox_rde1,.at-below-post-homepage,.at-below-post,.at-below-post-cat-page,.at-below-post-arch-page","id":"responsiveshare"}}]; } else { window.addthis_layers_tools.push({"responsiveshare":{"numPreferredServices":3,"counts":"one","size":"20px","style":"responsive","shareCountThreshold":0,"services":"facebook,twitter,email,addthis","elements":".addthis_inline_share_toolbox_rde1,.at-below-post-homepage,.at-below-post,.at-below-post-cat-page,.at-below-post-arch-page","id":"responsiveshare"}});  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.1.5","plugin_mode":"WordPress","anonymous_profile_id":"wp-7b9a0dd3c1123b93a4b2ced707d0e15c","page_info":{"template":"posts","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script>
+	<script src="/_assets/js/jquery.js"></script>
+  <script src="/_assets/js/app.js" /></script>
+  <script src="/_assets/js/lazy.js"></script>	 
+	<link rel="stylesheet" media="screen" href="/_assets/css/font.css" />
+  <link rel="stylesheet" media="screen" href="/_assets/css/style.css" />	
+
+</head>
+
+<body class="wordpress y2023 m08 d08 h07 single s-y2023 s-m05 s-d10 s-h04 s-category-blog-postings s-author-Berghahn Journals">	
+
+<container>	
+	<!-- header -->
+		<header>
+							<!-- <img id="bookseller_logo" src="/_assets/img/logo_bookseller_award.png"> -->
+				<logo>
+					<a href="/" title="Home Page"><img src="/_assets/img/logo/logo.png" width="90" height="199" alt="Berghahn Books Logo" border="0" /></a>					<h1>berghahn <span>New York &middot; Oxford</span></h1>
+				
+				</logo>			
+						<social>
+				<ul>
+					<li class="fb">
+						<a href="//www.facebook.com/BerghahnBooks" target="_blank" title="Berghahn Books on Facebook"><img src="//www.berghahnbooks.com/_assets/img/social/icon_fb_w.svg" alt="Facebook" /></a>
+					</li>
+					<li class="tw">
+						<a href="//twitter.com/berghahnbooks" target="_blank" title="Berghahn Books on Twitter"><img src="//www.berghahnbooks.com/_assets/img/social/icon_tw_w.svg" alt="Twitter" /></a>
+					</li>
+					<li class="yt">
+						<a href="//www.youtube.com/channel/UCuh-JFDwm_HfzX1zJ92tzcw" target="_blank" title="Berghahn Books on Youtube"><img src="//www.berghahnbooks.com/_assets/img/social/icon_yt_w.svg" alt="Youtube" /></a>
+					</li>
+					<li class="ig">
+						<a href="//www.instagram.com/berghahnbooks/" target="_blank" title="Berghahn Books on Instagram"><img src="//www.berghahnbooks.com/_assets/img/social/icon_ig_w.svg" alt="Instagram" /></a>
+					</li>
+				</ul>
+			</social>
+			
+			
+			
+			<!-- topnav -->
+			<div id="topnav" class="hide">
+				<a href="//www.berghahnbooks.com/browse/" id="browse">Browse</a>
+				<ul>
+					<li><a href="//www.berghahnbooks.com/browse/byauthor" id="author">By Author</a> (A-Z) | <a href="//www.berghahnbooks.com/browse/bytitle" id="title">By Title</a> (A-Z)</li>
+					<li><a href="//www.berghahnbooks.com/browse/bysubject" id="subject">By Subject</a>
+						<ul class="subject">
+						<li><a href="//www.berghahnbooks.com/anthropology/">Anthropology</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/anthropology-all">All titles</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/anthropology">General Anthropology</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/religion">Anthropology of Religion</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/applied-anthropology">Applied Anthropology</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/food-and-nutrition">Food &amp; Nutrition</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/medical-anthropology">Medical Anthropology</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/political-economy">Political &amp; Economic Anthropology</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/theory-methodology-anthropology">Theory &amp; Methodology</a></li>								
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/archaeology/">Archaeology</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/archaeology">All titles</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/cultural-studies/">Cultural Studies</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/cultural-studies-all">All titles</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/cultural-studies">General</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/heritage-studies">Heritage Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/museum-studies">Museum Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/literary-studies">Literary Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/media-studies">Media Studies</a></li>	
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/performance-studies">Performance Studies</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/development-studies">Development Studies</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/development-studies">All titles</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/educational-studies">Educational Studies</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/educational-studies">All titles</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/environmental-studies">Environmental Studies</a>
+							<ul>	 
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/environmental-studies-all">All titles</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/urban-studies">Urban Studies</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/film-studies">Film &amp; Television Studies</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/film-studies">All titles</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/gender-studies">Gender Studies</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/gender-studies">All titles</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/history/">History</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/history-all">All titles</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/history">General</a></li> 
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/colonialism">Colonial History</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/genocide-studies">Genocide History</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/jewish-studies">Jewish Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/memory-studies">Memory Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/early-modern-history">Medieval/Early Modern</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/18th-19th-century-history">18th-/19th-Century</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/WWI-history">WWI</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/WWII-history">WWII</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/20th-century-history">20th Century to Present</a></li>								
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/mobility-studies/">Mobility Studies</a>
+							<ul> 
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/mobility-studies-all">All titles</a>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/mobility-studies">General</a>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/refugee-and-migration-studies">Refugee &amp; Migration Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/transport-studies">Transport Studies</a></li>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/travel-and-tourism">Travel &amp; Tourism</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/sociology">Sociology</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/sociology">All titles</a></li>
+							</ul>
+						</li>
+						<li><a href="//www.berghahnbooks.com/browse/bysubject/peace-and-conflict-studies">Peace &amp; Conflict Studies</a>
+							<ul>
+								<li><a href="//www.berghahnbooks.com/browse/bysubject/peace-and-conflict-studies">All titles</a></li>
+							</ul>
+						</li>
+					</ul></li>
+					<li><a href="//www.berghahnbooks.com/browse/byarea" id="area">By Area</a>
+						<ul class="area">
+						<li><a href="//www.berghahnbooks.com/browse/byarea/africa">Africa</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/asia">Asia</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/asia-pacific">Asia-Pacific</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/middle-east-and-israel">Middle East/Israel</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/circumpolar">Circumpolar</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/north-america">North America</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/latin-america">Latin America</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/europe">Europe</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/northern-europe">Northern Europe</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/southern-europe">Southern Europe</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/central-eastern-europe">Central/Eastern Europe</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/france">France</a></li>
+						<li><a href="//www.berghahnbooks.com/browse/byarea/germany">Germany</a></li>	
+					</ul></li>
+					<li><a href="//www.berghahnbooks.com/series/" id="series">By Series</a></li>
+				</ul>
+			</div>					
+		</header>
+		
+		
+			<search>
+				<form method="post" action="/search/">
+					<fieldset>
+						<label>Search titles </label>
+						<input type="text" name="search_needle" size="35" maxlength="50" placeholder="Search" required />
+						<input type="hidden" name="flag" />
+						<input type="submit" value="go" />
+					</fieldset>	
+				</form>
+			</search>		
+				<nav id="topbar">
+			<ul>
+				<li class="mobile"><a href="/" role="button" tabIndex="0"> </a></li>
+				<li class="home"><a href="/" role="button" tabIndex="0">Home</a></li>
+				<li class="about"><a href="javascript://" role="button" tabIndex="0">About Us &raquo</a>
+					<ul>
+						<li><a href="/about/mission-statement/">Mission Statement</a></li>
+						<li><a href="/about/our-history/">Our History</a></li>
+						<li><a href="/about/notable-publications/">Notable Publications</a></li> 
+						<li><a href="/about/who-is-who/">Who's Who</a></li> 
+						<li><a href="/about/contact/">Contact Us</a></li>
+						<li><a href="/about/awards/">Awards</a></li>						
+						<li><a href="/about/partners/">Partners</a></li>
+						<li><a href="/privacy-policy/">Privacy Policy</a></li> 
+					</ul>
+				</li>
+				<li class="books"><a href="javascript://" role="button" tabIndex="0">Books &raquo;</a>
+					<ul> 	 
+						<li><a href="/authors/">For Authors</a></li>
+						<li><a href="/librarians/">For Librarians</a></li>
+						<li><a href="//">For Instructors &raquo</a>
+							<ul>	
+								<li><a href="/exam-copies/">Course Exam Copies</a></li>
+								<li><a href="/new-in-paperback/">New Paperbacks</a></li>
+								<li><a href="/review-copies/">Journal Review Copies</a></li>
+							</ul>
+						</li>						
+						<li><a href="#">For Orders &raquo</a>
+							<ul>
+								<li><a href="/customer-service/">Customer Service</a></li>
+								<li><a href="/agents-reps/">Agents/Reps</a></li>
+								<li><a href="/customer-service/">How to Order</a></li>
+							</ul>
+						</li>
+						<li><a href="/catalogs/">Catalogs &amp; Flyers</a></li>
+						<li><a href="/new-in-paperback/">New in Paperback</a></li>	
+						<li><a href="/rights/">Rights &amp; Permissions</a></li>						
+					</ul>
+				</li>	
+				<li class="ebooks"><a href="/ebooks/">eBooks</a></li>	
+				<li class="openaaccess"><a href="/open-access/">Open Access</a></li>
+				<li class="journals"><a href="//www.berghahnjournals.com/">Journals</a></li>
+				<li class="resources"><a href="javascript://" role="button" tabIndex="0">Resources &raquo;</a>
+					<ul>
+						<li><a href="/conferences/">Conferences/Events</a></li>
+						<li><a href="/blogs/">Blogs</a></li>
+						<li><a href="/podcast/">Podcast</a></li>
+						<li><a href="/multimedia/">Multimedia Content</a></li>
+						<li><a href="/email/">Newsletter Sign Up</a></li>
+					</ul>						
+				</li>	
+			</ul>
+		</nav>		
+		
+				<nav id="quick_links">
+			<ul> 
+				<li class="anth">
+					<a href="//www.berghahnbooks.com/anthropology" title="Anthropology">Anthropology</a>
+				</li>	 
+				<li class="arch">
+					<a href="//www.berghahnbooks.com/archaeology" title="Archaeology">Archaeology</a>
+				</li>		
+				<li class="cult">
+					<a href="//www.berghahnbooks.com/cultural-studies" title="Cultural Studies">Cultural Studies</a>
+				</li>
+				<li class="envi">
+					<a href="//www.berghahnbooks.com/environmental-studies" title="Environmental Studies">Environmental Studies</a>
+				</li>	
+				<li class="film">
+					<a href="//www.berghahnbooks.com/film-studies" title="Film Studies">Film &amp; Television Studies</a> 
+				</li>
+				<li class="hist">
+					<a href="//www.berghahnbooks.com/history" title="History">History</a>
+				</li>				
+				<li class="refu">
+					<a href="//www.berghahnbooks.com/refugee-and-migration-studies" title="Refugee &amp; Migration Studies">Refugee &amp; Migration Studies</a>
+				</li>
+				<li class="soci">
+					<a href="//www.berghahnbooks.com/sociology" title="Sociology">Sociology</a>
+				</li>					
+			</ul>
+		</nav>			
+
+		<main>
+		
+<div id="wrapper">
+	<div id="container">
+		<div id="content">
+
+			<div id="header">
+				<h1 id="blog-title"><a href="https://berghahnbooks.com/blog/" title="Berghahn Books">Blog</a></h1>
+				<div id="blog-description"></div>
+			</div><!-- #header -->
+	
+			<div class="access"><span class="content-access"><a href="#content" title="Skip to content">Skip to content</a></span></div>
+
+			<div id="globalnav"><ul id="menu"><li class="page_item_home home-link"><a href="https://berghahnbooks.com/blog/" title="Berghahn Books" rel="home">Home</a></li><li class="page_item page-item-2"><a href="https://berghahnbooks.com/blog/aoe">Anthropologies of Education</a></li><li class="page_item page-item-2033"><a href="https://berghahnbooks.com/blog/in-memoriam-jacqueline-kirk">In Memoriam: Jacqueline Kirk</a></li><li class="page_item page-item-15772"><a href="https://berghahnbooks.com/blog/understanding-fascism">Understanding Fascism</a></li></ul></div>
+
+			<div class="hfeed">
+
+
+				<div id="post-18938" class="hentry p1 post publish author-Berghahn Journals category-blog-postings y2023 m05 d10 h04">
+					<h2 class="entry-title">AUTHOR ARTICLE: Witches and Demons</h2>
+					<div class="entry-content">
+<div class="at-above-post addthis_tool" data-url="https://berghahnbooks.com/blog/author-article-witches-and-demons"></div>
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:19% auto"><figure class="wp-block-media-text__media"><img width="400" height="626" src="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/LaFontaineWitches-2.jpg" alt="" class="wp-image-18940 size-full" srcset="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/LaFontaineWitches-2.jpg 400w, https://berghahnbooks.com/blog/wp-content/uploads/2023/05/LaFontaineWitches-2-192x300.jpg 192w" sizes="(max-width: 400px) 100vw, 400px" /></figure><div class="wp-block-media-text__content">
+<p>Jean La Fontaine&#8217;s <a rel="noreferrer noopener" href="https://www.berghahnbooks.com/title/LaFontaineWitches" target="_blank">Witches and Demons: A Comparative Perspective on Witchcraft and Satanism</a> just enjoyed its seventh anniversary. And since it remains as popular &#8211; and as timely &#8211; as ever we asked Jean if she would take a look back at her Berghahn classic (available in paperback and eBook). So many thanks to Jean for this exclusive article.</p>
+</div></div>
+
+
+
+<span id="more-18938"></span>
+
+
+
+<p><strong><em>Witches and Demons</em></strong> explores understanding of evil and the cultural forms that the understanding assumes.&nbsp; It looks at public scares about devil worship, misconceptions of human sacrifice, the use of body parts in magical practices and the recent accusations against children for practising witchcraft.</p>
+
+
+
+<p>The articles concern modern forms of beliefs and actions that are also characteristic of earlier centuries; in some places the beliefs are still held. Witchcraft and sorcery were seen then as causing misfortunes, illness and, even, death, stemming from magical powers that were believed to be held by the people known as witches, or if all their powers were evil, as sorcerers.</p>
+
+
+
+<p>The ideas about witchcraft therefore had an explanatory function in historic societies, including England. Inequalities of wealth and health, success and failure might be believed to be the result of witchcraft, used to promote success and make others fail or&nbsp; suffer misfortune. Historically, the accused were usually older women, often impoverished but thought to possess magical powers.&nbsp; &nbsp;They were believed to meet together to worship Satan and assist people who asked for (and will pay for) their help, either to attack their enemies, protect themselves or their children or to promote their own success. Children were believed to be lacking magical powers and thus unable to use the spiritual evil that witchcraft or sorcery entailed, although in rare cases they might be associated with their witch mothers in accusations as future evil-doers. In some cases in Europe, witches were believed to sacrifice babies to Satan at their meetings.&nbsp;</p>
+
+
+
+<p>In Western or modernised societies today there are no longer many individuals believed to be either witches or sorcerers, but recently small groups of people worship the Christian devil, Satan, rather than the Christian God. There are similarities between the satanists(as they are called) and the wide-spread ideas of traditional witchcraft or sorcery but they are not identical. The witches of the European past were also believed to worship in their assemblies, known a covens; their evil powers were thought to derive from Him, through the evil spirits who were his followers and servants. However, unlike sorcerers who exercised &#8220;black&#8221; magic alone, witches might also possess powers to do good, to identify enemies, deal with illness or what today we might call ill luck. Such magicians might be suspected of an ability to harm as well as to heal, as a magician once told me. Since then, there have been changes, as the articles show, but the belief in witches&#8217; magical power to cause misfortune is no longer associated with those who worship the devil today, even the most extreme of them. Nor can they heal as witches used to and did.&nbsp;</p>
+
+
+
+<p>Ideas of witches and of their activities were not identical everywhere in Early Modern Europe, even at the time of witch-hunts in its many component societies. Nor are the modern versions the same as those of ancient beliefs, as historical research has shown. The development of science has established evidence supporting and proving the veracity of causes associated with many illnesses and misfortunes, that formerly might have been thought to be the result of &#8216;black&#8217; magic exercised by witches or sorcerers. However, beliefs in witches and witchcraft have not disappeared in many other societies.</p>
+
+
+
+<p>Human sacrifice may still be associated with devil-worshipping. However, a clear distinction between murders that are not associated with the devil, or any ritual that may be performed for Satan, can be made. Killing to provide ingredients for evil magic, undertaken by a magician for a client have been reported in parts of Africa and elsewhere. Such killing and the amputation of parts of the victim&#8217;s body to use as ingredients of powerful magic have been shown to be, not sacrifices that are performed for public good but as a means for an individual to acquire strong and evil powers. Human sacrifices make offerings to a god and where they took place in the past were normally part of rituals performed in public by priests and others who had acquired the appropriate ritual knowledge.</p>
+
+
+
+<p>Beliefs in witchcraft are not fixed but have also been shown to be changing and to have changed over time. The Pentecostal and other evangelical Christians who have established Christian churches may not accept the existence of witches but they do believe that evil spirits, followers and servants of Satan, may endow his followers with the power to cause harm.&nbsp; These powers can only be countered by rituals that remove the spirit or spirits concerned.&nbsp;Exorcism (or deliverance as it is often called) by pastors of the churches concerned may be violent and may resemble in some ways the traditional attacks on those believed to be witches.</p>
+
+
+
+<p>Such changes that can be shown to have occurred have not removed significant differences between the culture of morals in England and Europe as a whole and those of other societies where the existence of witches is still believed in. Traditionally, witches were identified within village communities, particularly of those whose behaviour was not considered normal or appropriate. Such actions can be seen to support morality in the local culture by discouraging action thought to identify witches. Among the more dispersed populations today, and in villages from which residents may leave to seek success, accusations may be made against kin or relations by marriage as they are the ones who are well-known to the accuser. Children accused of witchcraft may be accused of their parents or other close relatives. Many are identified by the pastors of churches, who may be paid to find the evil spirit and to cure its victim&nbsp;by exorcising it.</p>
+
+
+
+<p>Modern societies may exist in violent conditions that encourage beliefs in their propagation through the use of magical evil. As anthropologists have discovered, understanding witchcraft requires the analysis of actions and the context in which they are set. They are not mere ideas.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background"><strong>Jean La Fontaine&nbsp;is Professor Emeritus at the London School of Economics, where she taught for nearly twenty years. She received her PhD from the University of Cambridge and has chaired the Association of Social Anthropologists, and served as President of the Royal Anthropological Institute.</strong></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="400" height="626" src="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/LaFontaineWitches-3.jpg" alt="" class="wp-image-18942 size-full" srcset="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/LaFontaineWitches-3.jpg 400w, https://berghahnbooks.com/blog/wp-content/uploads/2023/05/LaFontaineWitches-3-192x300.jpg 192w" sizes="(max-width: 400px) 100vw, 400px" /></figure><div class="wp-block-media-text__content">
+<p><strong><a href="https://www.berghahnbooks.com/title/LaFontaineWitches" data-type="URL" data-id="https://www.berghahnbooks.com/title/LaFontaineWitches" target="_blank" rel="noreferrer noopener">WITCHES AND DEMONS</a></strong></p>
+
+
+
+<p><strong>A Comparative Perspective on Witchcraft and Satanism</strong></p>
+
+
+
+<p>156 pages, bibliog., index</p>
+
+
+
+<p>Paperback, eBook, Hardback</p>
+
+
+
+<p><em><a href="https://www.berghahnbooks.com/series/public-applied-anthropology" data-type="URL" data-id="https://www.berghahnbooks.com/series/public-applied-anthropology" target="_blank" rel="noreferrer noopener">Studies in Public and Applied Anthropology</a></em> series</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<p><strong>Also available&#8230;</strong></p>
+
+
+
+<div class="wp-container-4 wp-block-columns">
+<div class="wp-container-1 wp-block-column"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><a href="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/Davis-FloydRitual-1.jpg"><img loading="lazy" src="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/Davis-FloydRitual-1.jpg" alt="" class="wp-image-18948" width="147" height="221" srcset="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/Davis-FloydRitual-1.jpg 400w, https://berghahnbooks.com/blog/wp-content/uploads/2023/05/Davis-FloydRitual-1-200x300.jpg 200w" sizes="(max-width: 147px) 100vw, 147px" /></a></figure></div></div>
+
+
+
+<div class="wp-container-2 wp-block-column"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><a href="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/OlsenEngaging.jpg"><img loading="lazy" src="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/OlsenEngaging.jpg" alt="" class="wp-image-18949" width="137" height="217"/></a></figure></div></div>
+
+
+
+<div class="wp-container-3 wp-block-column"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><a href="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/BratrudFire.jpg"><img loading="lazy" src="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/BratrudFire.jpg" alt="" class="wp-image-18950" width="151" height="222" srcset="https://berghahnbooks.com/blog/wp-content/uploads/2023/05/BratrudFire.jpg 400w, https://berghahnbooks.com/blog/wp-content/uploads/2023/05/BratrudFire-204x300.jpg 204w" sizes="(max-width: 151px) 100vw, 151px" /></a></figure></div></div>
+</div>
+
+
+
+<div class="wp-container-8 wp-block-columns">
+<div class="wp-container-5 wp-block-column">
+<p class="has-text-align-left"><strong><a href="https://www.berghahnbooks.com/title/Davis-FloydRitual" data-type="URL" data-id="https://www.berghahnbooks.com/title/Davis-FloydRitual" target="_blank" rel="noreferrer noopener">RITUAL</a></strong></p>
+</div>
+
+
+
+<div class="wp-container-6 wp-block-column">
+<p class="has-text-align-left"><strong><a href="https://www.berghahnbooks.com/title/OlsenEngaging" data-type="URL" data-id="https://www.berghahnbooks.com/title/OlsenEngaging" target="_blank" rel="noreferrer noopener">ENGAGING EVIL</a></strong></p>
+</div>
+
+
+
+<div class="wp-container-7 wp-block-column">
+<p class="has-text-align-left"><strong><a href="https://www.berghahnbooks.com/title/BratrudFire" data-type="URL" data-id="https://www.berghahnbooks.com/title/BratrudFire" target="_blank" rel="noreferrer noopener">FIRE ON THE ISLAND</a></strong></p>
+</div>
+</div>
+
+
+
+<p class="has-cyan-bluish-gray-background-color has-background"><strong>For the latest news on our books and journals please&nbsp;sign up for our&nbsp;<a rel="noreferrer noopener" href="https://www.berghahnbooks.com/email/" target="_blank">email newsletters</a>.</strong></p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://berghahnbooks.com/blog/author-article-witches-and-demons"></div><!-- AddThis Share Buttons generic via filter on the_content -->
+
+					</div>
+
+<!-- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://berghahnbooks.com/blog/author-article-witches-and-demons"
+    dc:identifier="https://berghahnbooks.com/blog/author-article-witches-and-demons"
+    dc:title="AUTHOR ARTICLE: Witches and Demons"
+    trackback:ping="https://berghahnbooks.com/blog/author-article-witches-and-demons/trackback" />
+</rdf:RDF> -->
+
+				</div><!-- .post -->
+
+<div class="comments">
+
+</div><!-- .comments -->
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous">&laquo; <a href="https://berghahnbooks.com/blog/editor-interview-representing-21st-century-migration-in-europe" rel="prev">EDITOR INTERVIEW:  Representing 21st-Century Migration In Europe</a></div>
+					<div class="nav-next"><a href="https://berghahnbooks.com/blog/author-interview-viola-castellano-and-set-to-see-us-fail" rel="next">AUTHOR INTERVIEW: Viola Castellano and &#8216;Set to See Us Fail&#8217;</a> &raquo;</div>
+				</div>
+
+			</div><!-- .hfeed -->
+		</div><!-- #content -->
+	</div><!-- #container -->
+
+	<div id="primary" class="sidebar">
+		<ul>
+			<li id="home-link">
+				<h3><a href="https://berghahnbooks.com/blog" title="Berghahn Books">&laquo; Home</a></h3>
+			</li>
+			<li class="entry-meta">
+				<h3>About This Post</h3>
+				<ul>
+					<li>Written by <span class="entry-author author vcard"><a class="url fn" href="https://berghahnbooks.com/blog/author/berghahn-journals" title="View all posts by Berghahn Journals">Berghahn Journals</a></span></li>
+					<li><abbr class="published" title="2023-05-10T04:31:00+0000">May 10th, 2023 at 4:31 am</abbr></li>
+									</ul>
+			</li>
+			<li class="entry-category">
+				<h3>Categories</h3>
+				<ul>
+					<li><a href="https://berghahnbooks.com/blog/category/blog-postings" rel="category tag">Blog</a></li>
+				</ul>
+			</li>
+			<li class="entry-tags">
+				<h3>Tags</h3>
+				<ul>
+					<li><a href="https://berghahnbooks.com/blog/tag/anthropology" rel="tag">anthropology</a></li><li><a href="https://berghahnbooks.com/blog/tag/applied-anthropology" rel="tag">applied anthropology</a></li><li><a href="https://berghahnbooks.com/blog/tag/magic" rel="tag">magic</a></li><li><a href="https://berghahnbooks.com/blog/tag/ritual" rel="tag">ritual</a></li><li><a href="https://berghahnbooks.com/blog/tag/sacrifice" rel="tag">sacrifice</a></li><li><a href="https://berghahnbooks.com/blog/tag/satanic" rel="tag">satanic</a></li><li><a href="https://berghahnbooks.com/blog/tag/witch-hunt" rel="tag">witch-hunt</a></li><li><a href="https://berghahnbooks.com/blog/tag/witchcraft" rel="tag">witchcraft</a></li>				</ul>
+			</li>
+		</ul>
+	</div><!-- single.php #primary .sidebar -->
+
+	<div id="secondary" class="sidebar">
+		<ul>
+			<li class="entry-interact">
+				<h3>Interact</h3>
+				<ul>
+					<li class="comment-link">Comments closed</li>
+					<li class="trackback-link">Trackbacks closed</li>
+				</ul>
+			</li>
+			<li id="rss-links">
+				<h3>RSS Feeds</h3>
+				<ul>
+					<li><a href="https://berghahnbooks.com/blog/author-article-witches-and-demons/feed">Comments to this post</a></li>
+					<li><a href="https://berghahnbooks.com/blog/feed" title="Berghahn Books RSS 2.0 Feed" rel="alternate" type="application/rss+xml">All posts</a></li>
+					<li><a href="https://berghahnbooks.com/blog/comments/feed" title="Berghahn Books Comments RSS 2.0 Feed" rel="alternate" type="application/rss+xml">All comments</a></li>
+				</ul>
+			</li>
+			<li id="search">
+				<h3><label for="s">Search</label></h3>
+				<form class="searchform" method="get" action="https://berghahnbooks.com/blog">
+					<div>
+						<input id="s" name="s" type="text" value="" size="10" />
+						<input id="searchsubmit" name="searchsubmit" type="submit" value="Find" />
+					</div>
+				</form>
+			</li>
+		</ul>
+	</div><!-- single.php #secondary .sidebar -->
+
+
+</div><!-- #wrapper -->
+
+			<script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+		<style>.wp-container-1 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-1 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-1 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<style>.wp-container-2 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-2 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-2 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<style>.wp-container-3 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-3 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-3 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<style>.wp-container-4 {display: flex;gap: 2em;flex-wrap: nowrap;align-items: center;}.wp-container-4 > * { margin: 0; }</style>
+<style>.wp-container-5 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-5 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-5 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<style>.wp-container-6 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-6 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-6 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<style>.wp-container-7 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-7 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-7 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<style>.wp-container-8 {display: flex;gap: 2em;flex-wrap: nowrap;align-items: center;}.wp-container-8 > * { margin: 0; }</style>
+
+		</main> 
+	
+	</container>
+	
+	<!-- footer -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		  ga('create', 'UA-26090512-2', 'auto');	
+		  ga('send', 'pageview');
+		</script>
+	<footer>
+		copyright &copy; 2023, <a href="http://www.berghahnbooks.com">Berghahn Books</a>, New York &middot; Oxford : Email: <a href="mailto:support@berghahnbooksonline.com">support@berghahnbooksonline.com</a> <a id="feedback" href="http://www.berghahnbooks.com/feedback/" title="Send us your Feedback...">Feedback</a>
+	</footer>
+	<div id="overlay"></div>
+  <div id="zoom"></div>	
+</body>
+</html>
